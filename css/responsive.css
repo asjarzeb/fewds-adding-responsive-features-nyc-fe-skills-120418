@@ -12,4 +12,6 @@
   }
   
 @media (max-width: 900px) {
-  }
+body {
+  font-size: 85%;
+}}
